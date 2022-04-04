@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" time="0.002" timestamp="2021-10-06T19:35:27" name="AllTests">
+  <testsuite name="IsEvenTest" tests="3" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-06T19:35:27">
+    <testcase name="ZeroIsEven" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="IsEvenTest" />
+    <testcase name="OneIsOddAndTwoIsEven" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="IsEvenTest" />
+    <testcase name="RandomIntegers" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="IsEvenTest" />
+  </testsuite>
+  <testsuite name="RaiseIntToPowerTest" tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-06T19:35:27">
+    <testcase name="ZeroToAnyPowerIsAlwaysZero" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="RaiseIntToPowerTest" />
+    <testcase name="AnythingToZeroPowerIsOne" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="RaiseIntToPowerTest" />
+    <testcase name="AnythingRaisedToOneIsItself" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="RaiseIntToPowerTest" />
+    <testcase name="RandomIntegers" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="RaiseIntToPowerTest" />
+  </testsuite>
+  <testsuite name="SumArrayTest" tests="3" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-06T19:35:27">
+    <testcase name="EmptyArrayIsZero" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="SumArrayTest" />
+    <testcase name="ArrayWithOneElementReturnsThatValue" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="SumArrayTest" />
+    <testcase name="ArrayWithSeveralElements" status="run" result="completed" time="0" timestamp="2021-10-06T19:35:27" classname="SumArrayTest" />
+  </testsuite>
+</testsuites>

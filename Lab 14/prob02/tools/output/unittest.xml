@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="14" failures="0" disabled="0" errors="0" time="0.004" timestamp="2021-12-07T14:04:08" name="AllTests">
+  <testsuite name="Exception" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2021-12-07T14:04:08">
+    <testcase name="constructor" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="Exception" />
+    <testcase name="mutator" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="Exception" />
+  </testsuite>
+  <testsuite name="IndexOutOfRangeException" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-12-07T14:04:08">
+    <testcase name="constructor" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="IndexOutOfRangeException" />
+  </testsuite>
+  <testsuite name="InvalidArrayLengthException" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-12-07T14:04:08">
+    <testcase name="constructor" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="InvalidArrayLengthException" />
+  </testsuite>
+  <testsuite name="ArrayDouble" tests="10" failures="0" disabled="0" errors="0" time="0.002" timestamp="2021-12-07T14:04:08">
+    <testcase name="InvalidArrayLengthException1" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="ConstructorZeroes1" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="ConstructorZeroes2" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="IndexOutOfRangeException" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="IndexOutOfRangeExceptionOffByOne" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="IndexOutOfRangeExceptionNegative" status="run" result="completed" time="0.001" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="OpOverload1" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="OpOverload2" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="DisplayEmpty" status="run" result="completed" time="0" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+    <testcase name="Display" status="run" result="completed" time="0.001" timestamp="2021-12-07T14:04:08" classname="ArrayDouble" />
+  </testsuite>
+</testsuites>

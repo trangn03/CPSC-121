@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" time="0.019" timestamp="2021-09-11T00:48:04" name="AllTests">
+  <testsuite name="GetYesOrNoInputTest" tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-09-11T00:48:04">
+    <testcase name="ReturnsFalseWhenNoIsEntered" status="run" result="completed" time="0" timestamp="2021-09-11T00:48:04" classname="GetYesOrNoInputTest" />
+    <testcase name="ReturnsTrueWhenYesIsEntered" status="run" result="completed" time="0" timestamp="2021-09-11T00:48:04" classname="GetYesOrNoInputTest" />
+    <testcase name="AsksWhenUnrecognizedInputIsEnteredYes" status="run" result="completed" time="0" timestamp="2021-09-11T00:48:04" classname="GetYesOrNoInputTest" />
+    <testcase name="AsksWhenUnrecognizedInputIsEnteredNo" status="run" result="completed" time="0.001" timestamp="2021-09-11T00:48:04" classname="GetYesOrNoInputTest" />
+  </testsuite>
+  <testsuite name="IntegrationTest" tests="2" failures="0" disabled="0" errors="0" time="0.018" timestamp="2021-09-11T00:48:04">
+    <testcase name="LikesCookies" status="run" result="completed" time="0.008" timestamp="2021-09-11T00:48:04" classname="IntegrationTest" />
+    <testcase name="DoesNotLikeCookies" status="run" result="completed" time="0.01" timestamp="2021-09-11T00:48:04" classname="IntegrationTest" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='249' length='0'> </replacement>
+<replacement offset='250' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='241' length='0'> </replacement>
+<replacement offset='242' length='1'></replacement>
+<replacement offset='392' length='0'> </replacement>
+<replacement offset='393' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='801' length='0'> </replacement>
+<replacement offset='802' length='1'></replacement>
+<replacement offset='1785' length='2'> </replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='284' length='2'>&#10;</replacement>
+<replacement offset='613' length='0'> </replacement>
+<replacement offset='614' length='1'></replacement>
+<replacement offset='1182' length='3'>&#10;&#10;</replacement>
+<replacement offset='1299' length='0'> </replacement>
+<replacement offset='1300' length='1'></replacement>
+<replacement offset='1323' length='2'> </replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='266' length='2'>&#10;</replacement>
+<replacement offset='293' length='3'>&#10;&#10;</replacement>
+<replacement offset='368' length='0'> </replacement>
+<replacement offset='369' length='1'></replacement>
+<replacement offset='425' length='2'>&#10;</replacement>
+<replacement offset='452' length='3'>&#10;&#10;</replacement>
+<replacement offset='529' length='0'> </replacement>
+<replacement offset='530' length='1'></replacement>
+<replacement offset='548' length='2'> </replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='449' length='2'>&#10;</replacement>
+<replacement offset='748' length='0'> </replacement>
+<replacement offset='749' length='1'></replacement>
+<replacement offset='909' length='0'> </replacement>
+<replacement offset='910' length='1'></replacement>
+<replacement offset='951' length='3'>&#10;&#10;</replacement>
+<replacement offset='1114' length='2'> </replacement>
+</replacements>

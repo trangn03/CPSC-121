@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="16" failures="0" disabled="0" errors="0" time="0.003" timestamp="2021-10-01T13:21:29" name="AllTests">
+  <testsuite name="ButtonTest" tests="12" failures="0" disabled="0" errors="0" time="0.002" timestamp="2021-10-01T13:21:29">
+    <testcase name="GetColors" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioWhiteOnBlack" status="run" result="completed" time="0.001" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioWhiteOnWhite" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioBlackOnBlack" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioRedOnBlack" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioGreenOnBlack" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioBlueOnBlack" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioBlackOnWhite" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioRedOnWhite" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioGreenOnWhite" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="GetContrastRatioBlueOnWhite" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+    <testcase name="ComplexColorContrastRatio" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonTest" />
+  </testsuite>
+  <testsuite name="ButtonWithMostContrastTest" tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-01T13:21:29">
+    <testcase name="OneButton" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonWithMostContrastTest" />
+    <testcase name="TwoButtonsFirstOneBetter" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonWithMostContrastTest" />
+    <testcase name="TwoButtonsSecondOneBetter" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonWithMostContrastTest" />
+    <testcase name="ManyButtonsMiddleOneIsBest" status="run" result="completed" time="0" timestamp="2021-10-01T13:21:29" classname="ButtonWithMostContrastTest" />
+  </testsuite>
+</testsuites>

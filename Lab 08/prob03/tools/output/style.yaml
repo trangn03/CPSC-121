@@ -1,0 +1,28 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-08-trangn03/prob03/utensils.cc'
+Diagnostics:
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '1000 is a magic number; consider replacing it with a named constant'
+      FilePath:        './utensils.h'
+      FileOffset:      166
+      Replacements:    []
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '8.5 is a magic number; consider replacing it with a named constant'
+      FilePath:        './utensils.h'
+      FileOffset:      551
+      Replacements:    []
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '6 is a magic number; consider replacing it with a named constant'
+      FilePath:        './utensils.h'
+      FileOffset:      930
+      Replacements:    []
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '25 is a magic number; consider replacing it with a named constant'
+      FilePath:        './utensils.h'
+      FileOffset:      943
+      Replacements:    []
+...

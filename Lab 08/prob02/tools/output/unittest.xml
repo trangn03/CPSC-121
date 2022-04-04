@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="14" failures="0" disabled="0" errors="0" time="0.032" timestamp="2021-10-22T14:17:19" name="AllTests">
+  <testsuite name="KangarooTest" tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-22T14:17:19">
+    <testcase name="Constructors" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="KangarooTest" />
+    <testcase name="GetAndSetName" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="KangarooTest" />
+    <testcase name="Bounce" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="KangarooTest" />
+    <testcase name="BounceCount" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="KangarooTest" />
+  </testsuite>
+  <testsuite name="JoeyTest" tests="3" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-22T14:17:19">
+    <testcase name="ConstructorAndGetAndSetName" status="run" result="completed" time="0.001" timestamp="2021-10-22T14:17:19" classname="JoeyTest" />
+    <testcase name="Bounce" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="JoeyTest" />
+    <testcase name="BounceCount" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="JoeyTest" />
+  </testsuite>
+  <testsuite name="DoeTest" tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-22T14:17:19">
+    <testcase name="ConstructorAndGetAndSetName" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="DoeTest" />
+    <testcase name="Bounce" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="DoeTest" />
+    <testcase name="BounceCount" status="run" result="completed" time="0.001" timestamp="2021-10-22T14:17:19" classname="DoeTest" />
+    <testcase name="ReturnsJoeyByReference" status="run" result="completed" time="0" timestamp="2021-10-22T14:17:19" classname="DoeTest" />
+  </testsuite>
+  <testsuite name="MainTest" tests="3" failures="0" disabled="0" errors="0" time="0.03" timestamp="2021-10-22T14:17:19">
+    <testcase name="BounceDoeOnceAndJoeyTwice" status="run" result="completed" time="0.009" timestamp="2021-10-22T14:17:19" classname="MainTest" />
+    <testcase name="PrintsBounceCount" status="run" result="completed" time="0.007" timestamp="2021-10-22T14:17:19" classname="MainTest" />
+    <testcase name="MultipleRuns" status="run" result="completed" time="0.013" timestamp="2021-10-22T14:17:19" classname="MainTest" />
+  </testsuite>
+</testsuites>

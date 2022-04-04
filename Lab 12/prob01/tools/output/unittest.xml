@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="9" failures="0" disabled="0" errors="0" time="0.053" timestamp="2021-11-19T13:37:56" name="AllTests">
+  <testsuite name="CatTest" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-19T13:37:56">
+    <testcase name="GetAndSetName" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="CatTest" />
+    <testcase name="Destructor" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="CatTest" />
+    <testcase name="CreateKitty" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="CatTest" />
+  </testsuite>
+  <testsuite name="HumanTest" tests="5" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-11-19T13:37:56">
+    <testcase name="GetAndSetName" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="HumanTest" />
+    <testcase name="Destructor" status="run" result="completed" time="0.001" timestamp="2021-11-19T13:37:56" classname="HumanTest" />
+    <testcase name="PrintWithNoCat" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="HumanTest" />
+    <testcase name="AdoptAndPrintCat" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="HumanTest" />
+    <testcase name="TransferCat" status="run" result="completed" time="0" timestamp="2021-11-19T13:37:56" classname="HumanTest" />
+  </testsuite>
+  <testsuite name="MainTest" tests="1" failures="0" disabled="0" errors="0" time="0.051" timestamp="2021-11-19T13:37:56">
+    <testcase name="CatIsTransferred" status="run" result="completed" time="0.051" timestamp="2021-11-19T13:37:56" classname="MainTest" />
+  </testsuite>
+</testsuites>

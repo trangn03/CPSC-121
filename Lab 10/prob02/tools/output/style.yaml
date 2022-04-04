@@ -1,0 +1,227 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-10-trangn03/prob02/objects.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         too many errors emitted, stopping now
+      FilePath:        ''
+      FileOffset:      0
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'expected '';'' at end of declaration list'
+      FilePath:        './objects.h'
+      FileOffset:      245
+      Replacements:
+        - FilePath:        './objects.h'
+          Offset:          245
+          Length:          0
+          ReplacementText: ';'
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'expected '';'' at end of declaration list'
+      FilePath:        './objects.h'
+      FileOffset:      351
+      Replacements:
+        - FilePath:        './objects.h'
+          Offset:          351
+          Length:          0
+          ReplacementText: ';'
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'only virtual member functions can be marked ''override'''
+      FilePath:        './objects.h'
+      FileOffset:      688
+      Replacements:
+        - FilePath:        './objects.h'
+          Offset:          688
+          Length:          8
+          ReplacementText: ''
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''SetX'' in ''Paddle'''
+      FilePath:        game.cc
+      FileOffset:      1035
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''SetX'' in ''Ball''; did you mean ''SetY''?'
+      FilePath:        game.cc
+      FileOffset:      1105
+      Replacements:
+        - FilePath:        game.cc
+          Offset:          1105
+          Length:          4
+          ReplacementText: SetY
+    Notes:
+      - Message:         '''SetY'' declared here'
+        FilePath:        './objects.h'
+        FileOffset:      291
+        Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no matching constructor for initialization of ''Brick'''
+      FilePath:        game.cc
+      FileOffset:      1463
+      Replacements:    []
+    Notes:
+      - Message:         'candidate constructor not viable: requires 3 arguments, but 4 were provided'
+        FilePath:        './objects.h'
+        FileOffset:      626
+        Replacements:    []
+      - Message:         'candidate constructor (the implicit copy constructor) not viable: requires 1 argument, but 4 were provided'
+        FilePath:        './objects.h'
+        FileOffset:      493
+        Replacements:    []
+      - Message:         'candidate constructor (the implicit move constructor) not viable: requires 1 argument, but 4 were provided'
+        FilePath:        './objects.h'
+        FileOffset:      493
+        Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''SetX'' in ''Brick''; did you mean ''SetY''?'
+      FilePath:        game.cc
+      FileOffset:      1541
+      Replacements:
+        - FilePath:        game.cc
+          Offset:          1541
+          Length:          4
+          ReplacementText: SetY
+    Notes:
+      - Message:         '''SetY'' declared here'
+        FilePath:        './objects.h'
+        FileOffset:      291
+        Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''SetX'' in ''Paddle'''
+      FilePath:        game.cc
+      FileOffset:      2073
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''SetX'' in ''Ball''; did you mean ''SetY''?'
+      FilePath:        game.cc
+      FileOffset:      2873
+      Replacements:
+        - FilePath:        game.cc
+          Offset:          2873
+          Length:          4
+          ReplacementText: SetY
+    Notes:
+      - Message:         '''SetY'' declared here'
+        FilePath:        './objects.h'
+        FileOffset:      291
+        Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''Draw'' in ''Ball'''
+      FilePath:        game.cc
+      FileOffset:      3091
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'out-of-line definition of ''SetX'' does not match any declaration in ''SolidObject''; did you mean ''SetY''?'
+      FilePath:        objects.cc
+      FileOffset:      123
+      Replacements:
+        - FilePath:        objects.cc
+          Offset:          123
+          Length:          4
+          ReplacementText: SetY
+    Notes:
+      - Message:         '''SetY'' declared here'
+        FilePath:        './objects.h'
+        FileOffset:      291
+        Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'out-of-line definition of ''Draw'' does not match any declaration in ''SolidObject'''
+      FilePath:        objects.cc
+      FileOffset:      360
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetWidth'''
+      FilePath:        objects.cc
+      FileOffset:      452
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetHeight'''
+      FilePath:        objects.cc
+      FileOffset:      471
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetY'''
+      FilePath:        objects.cc
+      FileOffset:      513
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetHeight'''
+      FilePath:        objects.cc
+      FileOffset:      522
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         expected expression
+      FilePath:        objects.cc
+      FileOffset:      537
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetX'''
+      FilePath:        objects.cc
+      FileOffset:      590
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetWidth'''
+      FilePath:        objects.cc
+      FileOffset:      599
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         expected expression
+      FilePath:        objects.cc
+      FileOffset:      613
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetX'''
+      FilePath:        objects.cc
+      FileOffset:      695
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetWidth'''
+      FilePath:        objects.cc
+      FileOffset:      704
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         expected expression
+      FilePath:        objects.cc
+      FileOffset:      718
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetX'''
+      FilePath:        objects.cc
+      FileOffset:      771
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''GetWidth'''
+      FilePath:        objects.cc
+      FileOffset:      780
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         expected expression
+      FilePath:        objects.cc
+      FileOffset:      794
+      Replacements:    []
+...

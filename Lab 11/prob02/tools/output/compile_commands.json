@@ -1,0 +1,17 @@
+[
+ {
+ "directory" : "/home/trang/Documents/lab-11-trangn03/prob02",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/trang/Documents/lab-11-trangn03/prob02/main.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-11-trangn03/prob02",
+ "command" : "clang++ -std=c++17 raindrop.cc -o main",
+ "file" : "/home/trang/Documents/lab-11-trangn03/prob02/raindrop.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-11-trangn03/prob02",
+ "command" : "clang++ -std=c++17 rainstorm.cc -o main",
+ "file" : "/home/trang/Documents/lab-11-trangn03/prob02/rainstorm.cc"
+ },
+]

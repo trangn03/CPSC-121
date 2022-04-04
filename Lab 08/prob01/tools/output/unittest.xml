@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="12" failures="0" disabled="0" errors="0" time="0.002" timestamp="2021-10-22T14:13:47" name="AllTests">
+  <testsuite name="RectTest" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-22T14:13:47">
+    <testcase name="Getters" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="RectTest" />
+    <testcase name="ContainsPoint" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="RectTest" />
+    <testcase name="ContainsPointOnEdge" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="RectTest" />
+  </testsuite>
+  <testsuite name="ButtonTest" tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-22T14:13:47">
+    <testcase name="ConstructorsDefaultInactive" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ButtonTest" />
+    <testcase name="Getters" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ButtonTest" />
+    <testcase name="GetAndSetActive" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ButtonTest" />
+    <testcase name="Click" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ButtonTest" />
+  </testsuite>
+  <testsuite name="ToggleButtonTest" tests="5" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-22T14:13:47">
+    <testcase name="ConstructorDefaults" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ToggleButtonTest" />
+    <testcase name="HasGetNameAndActiveFunctionFromBaseClass" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ToggleButtonTest" />
+    <testcase name="ClickToggles" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ToggleButtonTest" />
+    <testcase name="ClickOutputEnabled" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ToggleButtonTest" />
+    <testcase name="ClickOutputNotEnabled" status="run" result="completed" time="0" timestamp="2021-10-22T14:13:47" classname="ToggleButtonTest" />
+  </testsuite>
+</testsuites>

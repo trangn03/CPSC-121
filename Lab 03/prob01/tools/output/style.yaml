@@ -1,0 +1,15 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-03-trangn03/prob01/tic_tac_toe.cc'
+Diagnostics:
+  - DiagnosticName:  clang-analyzer-deadcode.DeadStores
+    DiagnosticMessage:
+      Message:         'Value stored to ''i'' is never read'
+      FilePath:        tic_tac_toe.cc
+      FileOffset:      1801
+      Replacements:    []
+    Notes:
+      - Message:         'Value stored to ''i'' is never read'
+        FilePath:        tic_tac_toe.cc
+        FileOffset:      1801
+        Replacements:    []
+...

@@ -1,0 +1,22 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-10-trangn03/prob01/pointer_utils.cc'
+Diagnostics:
+  - DiagnosticName:  modernize-loop-convert
+    DiagnosticMessage:
+      Message:         use range-based for loop instead
+      FilePath:        pointer_utils.cc
+      FileOffset:      548
+      Replacements:
+        - FilePath:        pointer_utils.cc
+          Offset:          552
+          Length:          35
+          ReplacementText: '(auto & string : *strings)'
+        - FilePath:        pointer_utils.cc
+          Offset:          596
+          Length:          16
+          ReplacementText: string
+        - FilePath:        pointer_utils.cc
+          Offset:          646
+          Length:          16
+          ReplacementText: string
+...

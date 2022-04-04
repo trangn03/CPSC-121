@@ -1,0 +1,22 @@
+[
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob02",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob02/main.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob02",
+ "command" : "clang++ -std=c++17 abstract_bubble.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob02/abstract_bubble.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob02",
+ "command" : "clang++ -std=c++17 bubbles.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob02/bubbles.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob02",
+ "command" : "clang++ -std=c++17 bubble_jar.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob02/bubble_jar.cc"
+ },
+]

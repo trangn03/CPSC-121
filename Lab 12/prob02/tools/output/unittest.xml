@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" time="1.476" timestamp="2021-11-19T14:50:29" name="AllTests">
+  <testsuite name="BigBubbleTest" tests="2" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-11-19T14:50:29">
+    <testcase name="GetBubbleSize" status="run" result="completed" time="0.001" timestamp="2021-11-19T14:50:29" classname="BigBubbleTest" />
+    <testcase name="InheritsFromAbstractBubble" status="run" result="completed" time="0" timestamp="2021-11-19T14:50:29" classname="BigBubbleTest" />
+  </testsuite>
+  <testsuite name="SmallBubbleTest" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-19T14:50:29">
+    <testcase name="GetBubbleSize" status="run" result="completed" time="0" timestamp="2021-11-19T14:50:29" classname="SmallBubbleTest" />
+    <testcase name="InheritsFromAbstractBubble" status="run" result="completed" time="0" timestamp="2021-11-19T14:50:29" classname="SmallBubbleTest" />
+  </testsuite>
+  <testsuite name="BubbleJarTest" tests="6" failures="0" disabled="0" errors="0" time="1.474" timestamp="2021-11-19T14:50:29">
+    <testcase name="MousePressedCreatesBigBubble" status="run" result="completed" time="0.363" timestamp="2021-11-19T14:50:29" classname="BubbleJarTest" />
+    <testcase name="MouseReleasedCreatesSmallBubble" status="run" result="completed" time="0.236" timestamp="2021-11-19T14:50:30" classname="BubbleJarTest" />
+    <testcase name="MovesBubblesWithAnimationEvent" status="run" result="completed" time="0.242" timestamp="2021-11-19T14:50:30" classname="BubbleJarTest" />
+    <testcase name="MovesTwoBubblesWithAnimationEvents" status="run" result="completed" time="0.278" timestamp="2021-11-19T14:50:30" classname="BubbleJarTest" />
+    <testcase name="RemovesBubbleAfterMaxAnimationEvents" status="run" result="completed" time="0.112" timestamp="2021-11-19T14:50:31" classname="BubbleJarTest" />
+    <testcase name="RemovesAllTheOldestBubbles" status="run" result="completed" time="0.24" timestamp="2021-11-19T14:50:31" classname="BubbleJarTest" />
+  </testsuite>
+</testsuites>

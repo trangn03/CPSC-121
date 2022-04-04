@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" time="1.131" timestamp="2021-09-24T20:23:58" name="AllTests">
+  <testsuite name="BubbleImageTest" tests="4" failures="0" disabled="0" errors="0" time="1.038" timestamp="2021-09-24T20:23:58">
+    <testcase name="ExecutesAndExits" status="run" result="completed" time="0.031" timestamp="2021-09-24T20:23:58" classname="BubbleImageTest" />
+    <testcase name="CreatesSimpleBubble" status="run" result="completed" time="0.386" timestamp="2021-09-24T20:23:58" classname="BubbleImageTest" />
+    <testcase name="BubbleWithUnequalInts" status="run" result="completed" time="0.311" timestamp="2021-09-24T20:23:58" classname="BubbleImageTest" />
+    <testcase name="MultipleBubbles" status="run" result="completed" time="0.31" timestamp="2021-09-24T20:23:58" classname="BubbleImageTest" />
+  </testsuite>
+  <testsuite name="BubbleTest" tests="2" failures="0" disabled="0" errors="0" time="0.092" timestamp="2021-09-24T20:23:59">
+    <testcase name="BubbleToString" status="run" result="completed" time="0.021" timestamp="2021-09-24T20:23:59" classname="BubbleTest" />
+    <testcase name="BubblesToString" status="run" result="completed" time="0.071" timestamp="2021-09-24T20:23:59" classname="BubbleTest" />
+  </testsuite>
+</testsuites>

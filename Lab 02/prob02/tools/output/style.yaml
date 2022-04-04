@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-02-trangn03/prob02/input.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-return-type
+    DiagnosticMessage:
+      Message:         non-void function does not return a value in all control paths
+      FilePath:        input.cc
+      FileOffset:      327
+      Replacements:    []
+...

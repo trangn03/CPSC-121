@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" time="0.05" timestamp="2021-09-03T15:55:47" name="AllTests">
+  <testsuite name="UserInput" tests="1" failures="0" disabled="0" errors="0" time="0.005" timestamp="2021-09-03T15:55:47">
+    <testcase name="AskMealCostAndTip" status="run" result="completed" time="0.005" timestamp="2021-09-03T15:55:47" classname="UserInput" />
+  </testsuite>
+  <testsuite name="Taxes" tests="2" failures="0" disabled="0" errors="0" time="0.026" timestamp="2021-09-03T15:55:47">
+    <testcase name="Taxes1" status="run" result="completed" time="0.009" timestamp="2021-09-03T15:55:47" classname="Taxes" />
+    <testcase name="Taxes2" status="run" result="completed" time="0.017" timestamp="2021-09-03T15:55:47" classname="Taxes" />
+  </testsuite>
+  <testsuite name="Tip" tests="2" failures="0" disabled="0" errors="0" time="0.014" timestamp="2021-09-03T15:55:47">
+    <testcase name="ZeroTip" status="run" result="completed" time="0.007" timestamp="2021-09-03T15:55:47" classname="Tip" />
+    <testcase name="Tip" status="run" result="completed" time="0.007" timestamp="2021-09-03T15:55:47" classname="Tip" />
+  </testsuite>
+  <testsuite name="Driver" tests="1" failures="0" disabled="0" errors="0" time="0.003" timestamp="2021-09-03T15:55:47">
+    <testcase name="Output" status="run" result="completed" time="0.002" timestamp="2021-09-03T15:55:47" classname="Driver" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="14" failures="0" disabled="0" errors="0" time="0.011" timestamp="2021-11-04T17:40:31" name="AllTests">
+  <testsuite name="AstronautTest" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-04T17:40:31">
+    <testcase name="GetName" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="AstronautTest" />
+    <testcase name="GetColor" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="AstronautTest" />
+    <testcase name="GetIconFilename" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="AstronautTest" />
+  </testsuite>
+  <testsuite name="ImpostorTest" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-04T17:40:31">
+    <testcase name="IsBaseClass" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="ImpostorTest" />
+    <testcase name="SuperclassGetters" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="ImpostorTest" />
+    <testcase name="HasGetColorAndNameFunctionFromBaseClass" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="ImpostorTest" />
+  </testsuite>
+  <testsuite name="CrewmateTest" tests="7" failures="0" disabled="0" errors="0" time="0.009" timestamp="2021-11-04T17:40:31">
+    <testcase name="IsBaseClass" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="SuperclassGetters" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="IsAlive" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="GetIconFilename" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="GetColor" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="Tasks" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+    <testcase name="HasGetNameFunctionFromBaseClass" status="run" result="completed" time="0" timestamp="2021-11-04T17:40:31" classname="CrewmateTest" />
+  </testsuite>
+  <testsuite name="ImpostorAndCrewmateTest" tests="1" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-11-04T17:40:31">
+    <testcase name="ImpostorKillsCrewmate" status="run" result="completed" time="0.001" timestamp="2021-11-04T17:40:31" classname="ImpostorAndCrewmateTest" />
+  </testsuite>
+</testsuites>

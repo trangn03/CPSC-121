@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="16" failures="0" disabled="0" errors="0" time="0.056" timestamp="2021-11-10T11:24:07" name="AllTests">
+  <testsuite name="BrickTest" tests="4" failures="0" disabled="0" errors="0" time="0.018" timestamp="2021-11-10T11:24:07">
+    <testcase name="IsSolidObject" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="BrickTest" />
+    <testcase name="WidthAndHeight" status="run" result="completed" time="0.001" timestamp="2021-11-10T11:24:07" classname="BrickTest" />
+    <testcase name="SetAndGetXAndY" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="BrickTest" />
+    <testcase name="Draw" status="run" result="completed" time="0.011" timestamp="2021-11-10T11:24:07" classname="BrickTest" />
+  </testsuite>
+  <testsuite name="PaddleTest" tests="4" failures="0" disabled="0" errors="0" time="0.023" timestamp="2021-11-10T11:24:07">
+    <testcase name="IsSolidObject" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="PaddleTest" />
+    <testcase name="WidthAndHeight" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="PaddleTest" />
+    <testcase name="SetAndGetXAndY" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="PaddleTest" />
+    <testcase name="Draw" status="run" result="completed" time="0.023" timestamp="2021-11-10T11:24:07" classname="PaddleTest" />
+  </testsuite>
+  <testsuite name="BallTest" tests="4" failures="0" disabled="0" errors="0" time="0.013" timestamp="2021-11-10T11:24:07">
+    <testcase name="IsSolidObject" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="BallTest" />
+    <testcase name="WidthAndHeight" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="BallTest" />
+    <testcase name="SetAndGetXAndY" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="BallTest" />
+    <testcase name="Draw" status="run" result="completed" time="0.01" timestamp="2021-11-10T11:24:07" classname="BallTest" />
+  </testsuite>
+  <testsuite name="CollidesWith" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-10T11:24:07">
+    <testcase name="EmptySize" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="CollidesWith" />
+  </testsuite>
+  <testsuite name="CollidesWithTest" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2021-11-10T11:24:07">
+    <testcase name="DoesNotCollide" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="CollidesWithTest" />
+    <testcase name="CollidesCompletely" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="CollidesWithTest" />
+    <testcase name="CollidesOnOneSide" status="run" result="completed" time="0" timestamp="2021-11-10T11:24:07" classname="CollidesWithTest" />
+  </testsuite>
+</testsuites>

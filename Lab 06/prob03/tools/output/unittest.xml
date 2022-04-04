@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="1" disabled="0" errors="0" time="0.002" timestamp="2021-10-22T15:36:01" name="AllTests">
+  <testsuite name="Bubble" tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-10-22T15:36:01">
+    <testcase name="PublicMethodPresent" status="run" result="completed" time="0" timestamp="2021-10-22T15:36:01" classname="Bubble" />
+    <testcase name="MutatorsAndAccessors" status="run" result="completed" time="0" timestamp="2021-10-22T15:36:01" classname="Bubble" />
+    <testcase name="Volume1" status="run" result="completed" time="0" timestamp="2021-10-22T15:36:01" classname="Bubble" />
+    <testcase name="Volume2" status="run" result="completed" time="0" timestamp="2021-10-22T15:36:01" classname="Bubble" />
+  </testsuite>
+  <testsuite name="CombineBubbles" tests="2" failures="1" disabled="0" errors="0" time="0.001" timestamp="2021-10-22T15:36:01">
+    <testcase name="SameRadius" status="run" result="completed" time="0" timestamp="2021-10-22T15:36:01" classname="CombineBubbles">
+      <failure message="../settings/unittest.cc:38&#x0A;Expected equality of these values:&#x0A;  CombineBubble(first_bubble, second_bubble).GetRadius()&#x0A;    Which is: 12&#x0A;  12.4&#x0A;      The function should set the radius of the combined Bubble to 12.4, that is the combined radius of two other Bubble objects each having the radius of 6.2." type=""><![CDATA[../settings/unittest.cc:38
+Expected equality of these values:
+  CombineBubble(first_bubble, second_bubble).GetRadius()
+    Which is: 12
+  12.4
+      The function should set the radius of the combined Bubble to 12.4, that is the combined radius of two other Bubble objects each having the radius of 6.2.]]></failure>
+    </testcase>
+    <testcase name="DifferentRadius" status="run" result="skipped" time="0" timestamp="2021-10-22T15:36:01" classname="CombineBubbles" />
+  </testsuite>
+  <testsuite name="UserInput" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-22T15:36:01">
+    <testcase name="AskRadii" status="run" result="skipped" time="0" timestamp="2021-10-22T15:36:01" classname="UserInput" />
+  </testsuite>
+  <testsuite name="Driver" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-10-22T15:36:01">
+    <testcase name="ShowCombinedBubbleVolume" status="run" result="skipped" time="0" timestamp="2021-10-22T15:36:01" classname="Driver" />
+  </testsuite>
+</testsuites>

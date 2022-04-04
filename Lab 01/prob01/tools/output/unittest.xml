@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="9" failures="0" disabled="0" errors="0" time="0.143" timestamp="2021-09-10T22:58:40" name="AllTests">
+  <testsuite name="MadLibsTest" tests="9" failures="0" disabled="0" errors="0" time="0.142" timestamp="2021-09-10T22:58:40">
+    <testcase name="ExecutesAndExitsWithInput" status="run" result="completed" time="0.006" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesNameWithComma" status="run" result="completed" time="0.01" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesEmotionWithSpaces" status="run" result="completed" time="0.02" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesAnimalWithSpaces" status="run" result="completed" time="0.02" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesIntegerWithSpaces" status="run" result="completed" time="0.017" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesCharacterWithSpaces" status="run" result="completed" time="0.012" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesDoubleWithSpaceandPercentage" status="run" result="completed" time="0.019" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="UsesSecondName" status="run" result="completed" time="0.019" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+    <testcase name="BuildsFullMadLib" status="run" result="completed" time="0.017" timestamp="2021-09-10T22:58:40" classname="MadLibsTest" />
+  </testsuite>
+</testsuites>

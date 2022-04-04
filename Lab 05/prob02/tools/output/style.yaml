@@ -1,0 +1,15 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-05-trangn03/prob02/robot.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'redefinition of ''GetX'''
+      FilePath:        robot.cc
+      FileOffset:      152
+      Replacements:    []
+    Notes:
+      - Message:         previous definition is here
+        FilePath:        robot.cc
+        FileOffset:      114
+        Replacements:    []
+...

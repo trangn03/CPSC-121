@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='19' length='2'>&#10;</replacement>
+<replacement offset='52' length='1'>&#10;  </replacement>
+<replacement offset='90' length='2'>&#10;&#10;  </replacement>
+<replacement offset='94' length='0'> </replacement>
+<replacement offset='109' length='2'>&#10;  </replacement>
+<replacement offset='128' length='2'>&#10;  </replacement>
+<replacement offset='152' length='1'>&#10;  </replacement>
+<replacement offset='173' length='1'>&#10;  </replacement>
+<replacement offset='193' length='3'>&#10;&#10;  </replacement>
+<replacement offset='198' length='0'> </replacement>
+<replacement offset='217' length='1'>&#10;  </replacement>
+<replacement offset='229' length='1'>&#10;  </replacement>
+<replacement offset='248' length='2'>&#10;  </replacement>
+<replacement offset='265' length='3'>&#10;&#10;  </replacement>
+<replacement offset='270' length='0'> </replacement>
+<replacement offset='287' length='2'>&#10;  </replacement>
+<replacement offset='301' length='0'> </replacement>
+<replacement offset='310' length='1'>&#10;  </replacement>
+<replacement offset='328' length='1'>&#10;  </replacement>
+<replacement offset='341' length='0'> </replacement>
+<replacement offset='353' length='1'>&#10;  </replacement>
+<replacement offset='374' length='1'>&#10;  </replacement>
+<replacement offset='387' length='0'> </replacement>
+<replacement offset='398' length='1'>&#10;  </replacement>
+<replacement offset='418' length='2'>&#10;  </replacement>
+<replacement offset='432' length='0'> </replacement>
+<replacement offset='442' length='1'></replacement>
+<replacement offset='444' length='2'>&#10;  </replacement>
+<replacement offset='465' length='1'>&#10;  </replacement>
+<replacement offset='478' length='0'> </replacement>
+<replacement offset='489' length='1'>&#10;  </replacement>
+<replacement offset='512' length='2'>&#10;  </replacement>
+<replacement offset='526' length='0'> </replacement>
+<replacement offset='569' length='1'></replacement>
+<replacement offset='571' length='2'>&#10;  </replacement>
+<replacement offset='596' length='1'>&#10;  </replacement>
+<replacement offset='609' length='0'> </replacement>
+<replacement offset='617' length='1'></replacement>
+<replacement offset='619' length='1'>&#10;  </replacement>
+<replacement offset='642' length='2'>&#10;&#10;  </replacement>
+<replacement offset='646' length='0'> </replacement>
+<replacement offset='669' length='1'>&#10;  </replacement>
+<replacement offset='1141' length='2'>&#10;</replacement>
+</replacements>

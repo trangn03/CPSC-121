@@ -1,0 +1,12 @@
+[
+ {
+ "directory" : "/home/trang/Documents/lab-08-trangn03/prob03",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/trang/Documents/lab-08-trangn03/prob03/main.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-08-trangn03/prob03",
+ "command" : "clang++ -std=c++17 utensils.cc -o main",
+ "file" : "/home/trang/Documents/lab-08-trangn03/prob03/utensils.cc"
+ },
+]

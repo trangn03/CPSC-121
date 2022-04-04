@@ -1,0 +1,16 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-03-trangn03/prob03/desaturate.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''width'''
+      FilePath:        desaturate.cc
+      FileOffset:      599
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''width'''
+      FilePath:        desaturate.cc
+      FileOffset:      632
+      Replacements:    []
+...

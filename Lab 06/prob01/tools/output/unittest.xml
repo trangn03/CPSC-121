@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="12" failures="0" disabled="0" errors="0" time="0.033" timestamp="2021-10-06T19:32:59" name="AllTests">
+  <testsuite name="RadioButtonTest" tests="9" failures="0" disabled="0" errors="0" time="0.004" timestamp="2021-10-06T19:32:59">
+    <testcase name="SetAndGetText" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="SetAndGetSelected" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="SetsSelectedWithOneSelectedButton" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="SetsSelectedWithOneButton" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="SetsSelectedWithThreeButtons" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="DeselectsOtherRadioButtonsOnSelection" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="PrintOneDeselectedButton" status="run" result="completed" time="0.001" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="PrintOneSelectedButton" status="run" result="completed" time="0.001" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+    <testcase name="PrintsManyButtonsSomeSelected" status="run" result="completed" time="0" timestamp="2021-10-06T19:32:59" classname="RadioButtonTest" />
+  </testsuite>
+  <testsuite name="MainTest" tests="3" failures="0" disabled="0" errors="0" time="0.029" timestamp="2021-10-06T19:32:59">
+    <testcase name="ExecutesAndExits" status="run" result="completed" time="0.005" timestamp="2021-10-06T19:32:59" classname="MainTest" />
+    <testcase name="OneButton" status="run" result="completed" time="0.011" timestamp="2021-10-06T19:32:59" classname="MainTest" />
+    <testcase name="SeveralButtons" status="run" result="completed" time="0.013" timestamp="2021-10-06T19:32:59" classname="MainTest" />
+  </testsuite>
+</testsuites>

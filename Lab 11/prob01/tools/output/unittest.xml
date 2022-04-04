@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="7" failures="0" disabled="0" errors="0" time="0.004" timestamp="2021-11-17T11:22:16" name="AllTests">
+  <testsuite name="PersonTest" tests="6" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-11-17T11:22:16">
+    <testcase name="ConstructorAndGetName" status="run" result="completed" time="0" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+    <testcase name="SetAndGetChild" status="run" result="completed" time="0" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+    <testcase name="ChildStartsAsNullptr" status="run" result="completed" time="0" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+    <testcase name="PrintsPersonWithNoChildren" status="run" result="completed" time="0" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+    <testcase name="PrintsPersonWithOneChild" status="run" result="completed" time="0" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+    <testcase name="MultiGenerational" status="run" result="completed" time="0.001" timestamp="2021-11-17T11:22:16" classname="PersonTest" />
+  </testsuite>
+  <testsuite name="MainTest" tests="1" failures="0" disabled="0" errors="0" time="0.002" timestamp="2021-11-17T11:22:16">
+    <testcase name="ProgramRunsAsExpected" status="run" result="completed" time="0.002" timestamp="2021-11-17T11:22:16" classname="MainTest" />
+  </testsuite>
+</testsuites>

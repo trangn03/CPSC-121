@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='193' length='0'> </replacement>
+<replacement offset='194' length='1'></replacement>
+<replacement offset='267' length='0'> </replacement>
+<replacement offset='268' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='68' length='2'>&#10;</replacement>
+<replacement offset='108' length='0'> </replacement>
+<replacement offset='109' length='1'></replacement>
+<replacement offset='127' length='3'>&#10;&#10;</replacement>
+<replacement offset='205' length='0'> </replacement>
+<replacement offset='206' length='1'></replacement>
+<replacement offset='247' length='0'> </replacement>
+<replacement offset='248' length='1'></replacement>
+<replacement offset='285' length='2'> </replacement>
+</replacements>

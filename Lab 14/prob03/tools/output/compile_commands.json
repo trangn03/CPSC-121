@@ -1,0 +1,7 @@
+[
+ {
+ "directory" : "/home/trang/Documents/lab-14-trangn03/prob03",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/trang/Documents/lab-14-trangn03/prob03/main.cc"
+ },
+]

@@ -1,0 +1,17 @@
+[
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob01",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob01/main.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob01",
+ "command" : "clang++ -std=c++17 cat.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob01/cat.cc"
+ },
+ {
+ "directory" : "/home/trang/Documents/lab-12-trangn03/prob01",
+ "command" : "clang++ -std=c++17 human.cc -o main",
+ "file" : "/home/trang/Documents/lab-12-trangn03/prob01/human.cc"
+ },
+]

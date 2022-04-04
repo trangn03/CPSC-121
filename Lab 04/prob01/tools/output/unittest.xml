@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" time="0.052" timestamp="2021-09-24T20:23:03" name="AllTests">
+  <testsuite name="HexImageTest" tests="5" failures="0" disabled="0" errors="0" time="0.052" timestamp="2021-09-24T20:23:03">
+    <testcase name="ExecutesAndExits" status="run" result="completed" time="0.007" timestamp="2021-09-24T20:23:03" classname="HexImageTest" />
+    <testcase name="TellsUserAboutOutputImage" status="run" result="completed" time="0.009" timestamp="2021-09-24T20:23:03" classname="HexImageTest" />
+    <testcase name="ImageContainsCorrectColorWithWhite" status="run" result="completed" time="0.019" timestamp="2021-09-24T20:23:03" classname="HexImageTest" />
+    <testcase name="ImageContainsCorrectColorWithBlack" status="run" result="completed" time="0.007" timestamp="2021-09-24T20:23:03" classname="HexImageTest" />
+    <testcase name="ImageContainsOnlyCorrectColor" status="run" result="completed" time="0.008" timestamp="2021-09-24T20:23:03" classname="HexImageTest" />
+  </testsuite>
+</testsuites>

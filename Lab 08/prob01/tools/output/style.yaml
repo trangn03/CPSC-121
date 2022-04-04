@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-08-trangn03/prob01/rect.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'extraneous closing brace (''}'')'
+      FilePath:        button.cc
+      FileOffset:      434
+      Replacements:    []
+...

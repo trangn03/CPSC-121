@@ -1,0 +1,26 @@
+---
+MainSourceFile:  '/home/trang/Documents/lab-04-trangn03/prob01/main.cc'
+Diagnostics:
+  - DiagnosticName:  clang-analyzer-deadcode.DeadStores
+    DiagnosticMessage:
+      Message:         'Value stored to ''width'' during its initialization is never read'
+      FilePath:        main.cc
+      FileOffset:      928
+      Replacements:    []
+    Notes:
+      - Message:         'Value stored to ''width'' during its initialization is never read'
+        FilePath:        main.cc
+        FileOffset:      928
+        Replacements:    []
+  - DiagnosticName:  clang-analyzer-deadcode.DeadStores
+    DiagnosticMessage:
+      Message:         'Value stored to ''height'' during its initialization is never read'
+      FilePath:        main.cc
+      FileOffset:      960
+      Replacements:    []
+    Notes:
+      - Message:         'Value stored to ''height'' during its initialization is never read'
+        FilePath:        main.cc
+        FileOffset:      960
+        Replacements:    []
+...
